@@ -45,3 +45,9 @@ The dataset includes:
 - Pandas 🐼
 - VSCode
 - CSV Data Handling
+
+💡 Author
+Amaar Ali
+Mathematics | Engineering | Hardware | AI/ML Enthusiast
+"Building the next Apple, one dataset/project at a time."
+  
